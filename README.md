@@ -1,3 +1,9 @@
+# fix 
+
+修正短信控制器present弹出时，多出一块空白条的问题。
+
+
+------
 # FDFullscreenPopGesture
 An UINavigationController's category to enable fullscreen pop gesture in an iOS7+ system style with AOP.
 
