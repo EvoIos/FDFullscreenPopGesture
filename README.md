@@ -1,6 +1,6 @@
 # Fix 
 
-修正短信控制器present弹出时，多出一块空白条的问题。
+version: 1.1, 修正短信控制器present弹出时，多出一块空白条的问题。
 
 ![fix](https://raw.githubusercontent.com/EvoIos/FDFullscreenPopGesture/master/fix.jpg)
 
